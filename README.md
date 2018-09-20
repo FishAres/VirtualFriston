@@ -1,17 +1,20 @@
 # VirtualFriston
 while self evidence self else make good end
 
-## Setup for Julia 0.7.0
+## Setup for Julia 1.0
 
-Just add RigidBodySim.jl
+Add: 
+
+RigidBodySim.jl
 
 RigidBodyDynamics.jl
 
+MeshCat.jl
+
 MechanismGeometries.jl
+
+CoordinateTransformations.jl
 
 (optinally Blink.jl)
 
-Now we can finally start playing! 
-
-## Setup for Julia 1.0?
 

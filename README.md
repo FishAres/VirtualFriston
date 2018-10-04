@@ -1,13 +1,20 @@
 # VirtualFriston
 while self evidence self else make good end
 
-## Setup for Julia 0.7.0
+## Setup for Julia 1.0
 
-### Problems:
+Add: 
 
-* IJulia (jupyter) kernels seem to hang for julia 0.7
-* Not sure how to get the MeshCat simulator to work on a REPL (session occupies the repl)
+RigidBodySim.jl
 
-## Setup for julia 0.6.3
+RigidBodyDynamics.jl
 
-### Seems to work
+MeshCat.jl
+
+MechanismGeometries.jl
+
+CoordinateTransformations.jl
+
+(optinally Blink.jl)
+
+

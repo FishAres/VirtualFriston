@@ -1,5 +1,4 @@
-# VirtualFriston
-while self evidence self else make good end
+# Active inference playground
 
 ## Setup for Julia 1.0
 
